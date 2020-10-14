@@ -38,7 +38,7 @@
 
 #### A : Just... Don't Ask About It
 
-#|
+#
 
 #### Q : Can I Contact You In Anyway Possible ?
 
