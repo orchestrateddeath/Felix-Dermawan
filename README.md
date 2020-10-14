@@ -1,19 +1,16 @@
-I'll Probably Forgot Using This Anyway
+# Lets Do A Short Intro
 
-Edit 03/10/2020 : Yep I Just Forgot My Password
+### Name : Felix Dermawan
 
-Lets Do A Short Intro
+### Occupation : Right Now ? Slave
 
-Name : Felix Dermawan
+##### Contact
 
-Occupation : Right Now ? Slave
+##### Facebook : Felir Dermawan, With A Sausage thrusting A Donut While Making A Gay Face With LGBT Colour and France Colour As Profile Picture. Yes, I'm Not Kidding. And Will Never Change The Profile Picture.
 
-Contact
-Facebook : Felir Dermawan, With A Sausage thrusting A Donut While Making A Gay Face With LGBT Colour and France Colour As Profile Picture. Yes, I'm Not Kidding.
+##### Discord : Plain And Simple, GAME GRATISAN#0271
 
-Discord : Plain And Simple, GAME GRATISAN#0271
-
-FAQ
+### FAQ
 
 Q : Why Do You Have Git Hub When You Said Yourself That You hate GitHub ?
 
@@ -34,3 +31,10 @@ A : Just... Don't Ask About It
 Q : Can I Contact You In Anyway Possible ?
 
 A : Sure, I Have Facebook Account and Discord That You Can Use To Mess With Me
+
+I'll Probably Forgot Using This Anyway
+
+Edit 03/10/2020 : Yep I Just Forgot My Password
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=orchestrateddeath&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orchestrateddeath&layout=demo&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
