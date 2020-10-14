@@ -1,7 +1,3 @@
-Tutorial For Living :
-
-1. Dont Die
-
 I'll Probably Forgot Using This Anyway
 
 Edit 03/10/2020 : Yep I Just Forgot My Password
@@ -13,8 +9,8 @@ Name : Felix Dermawan
 Occupation : Right Now ? Slave
 
 Contact
-Facebook : Felir Dermawan, With A Sausage thrusting A Donut While Making A Gay Face With LGBT Colour and France Colour As Profile Picture. Yes, I'm Not Kidding.
-Discord : Plain And Simple, GAME GRATISAN#0271
+-Facebook : Felir Dermawan, With A Sausage thrusting A Donut While Making A Gay Face With LGBT Colour and France Colour As Profile Picture. Yes, I'm Not Kidding.
+-Discord : Plain And Simple, GAME GRATISAN#0271
 
 FAQ
 
@@ -32,3 +28,5 @@ A : Just... Don't Ask About It
 
 Q : Can I Contact You In Anyway Possible ?
 A : Sure, I Have Facebook Account and Discord That You Can Use To Mess With Me
+
+
