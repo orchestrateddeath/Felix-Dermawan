@@ -12,7 +12,7 @@
 
 ### FAQ
 
-Q : Why Do You Have Git Hub When You Said Yourself That You hate GitHub ?
+Q : Why Do You Have GitHub When You Said Yourself That You hate GitHub ?
 
 A : I HAVE TO, OKAY.
 
