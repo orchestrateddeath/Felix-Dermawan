@@ -28,15 +28,15 @@
 
 #
 
-#### Q : What Is The Thing That Ever Makes You Known By Many People ?
+#### Q : Are You A Busy Person ?
 
-#### A : Indomie... That's All...
+#### A : Perhaps...
 
 #
 
-#### Q : Why Indomie ? You Are An IT Student, Not A Culinary Student ?
+#### Q : Do You Want A Busy Live ?
 
-#### A : Just... Don't Ask About It
+#### A : No, But I Need Money.
 
 #
 
