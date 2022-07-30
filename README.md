@@ -2,8 +2,6 @@
 
 ### Name : Felix Dermawan
 
-### Occupation : Right Now ? Slave
-
 # 
 
 ## Contact
@@ -15,12 +13,6 @@
 #
 
 ## FAQ
-
-#### Q : Why Do You Have GitHub When You Said Yourself That You hate GitHub ?
-
-#### A : I HAVE TO, OKAY.
-
-#
 
 #### Q : Will You Update Many Repositories Into Your Account ?
 
